@@ -1,2 +1,2 @@
-# stutern_Calculator
+# Calculator
 Simple standard calculator user interface
